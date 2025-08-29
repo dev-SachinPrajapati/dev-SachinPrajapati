@@ -13,7 +13,7 @@
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=blue)  
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)    
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logoColor=white)  
 ![ThreeJS](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)  
 ![Shadcn](https://img.shields.io/badge/Shadcn/UI-%23000000.svg?style=for-the-badge&logoColor=white)  
 ![Aceternity](https://img.shields.io/badge/Aceternity-%23FF6C37.svg?style=for-the-badge&logoColor=white)  
