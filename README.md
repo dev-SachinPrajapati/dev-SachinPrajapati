@@ -5,42 +5,52 @@
 
 ## 🛠️ Skills & Tech Stack:
 
-### 🌐 Frontend  
+### 💻 Programming & Development  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+
+---
+
+### 🎨 UI & Frontend Frameworks
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=blue)  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logoColor=white)  
-![ThreeJS](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   
 ![Shadcn](https://img.shields.io/badge/Shadcn/UI-%23000000.svg?style=for-the-badge&logoColor=white)  
 ![Aceternity](https://img.shields.io/badge/Aceternity-%23FF6C37.svg?style=for-the-badge&logoColor=white)  
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)  
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)  
 
-
-
 ---
 
-### 🖥 Backend & Databases  
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
+
+
+### 🗄️ Databases & APIs 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
 
 ---
 
+### 🎬 Animations & Visuals 
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=blue)  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logoColor=white)  
+![ThreeJS](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) 
+
+---
+
 ### ⚙️ Tools & Platforms  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)  
 
 ---
 
