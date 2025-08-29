@@ -1,5 +1,5 @@
 ## 🌐 Connect With Me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://sachin-prajapati.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-prajapati.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:captsachin8898@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/prajapati_sachin.in/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-prajapati-it/) 
 
@@ -13,7 +13,7 @@
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Framer Motion](https://img.shields.io/badge/Framer--Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=blue)  
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)  
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)    
 ![ThreeJS](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)  
 ![Shadcn](https://img.shields.io/badge/Shadcn/UI-%23000000.svg?style=for-the-badge&logoColor=white)  
 ![Aceternity](https://img.shields.io/badge/Aceternity-%23FF6C37.svg?style=for-the-badge&logoColor=white)  
